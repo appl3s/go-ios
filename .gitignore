@@ -21,3 +21,7 @@ main
 .circleci/
 __debug_bin
 dump-*
+
+# ignore frida
+*.a
+*.key*
